@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rina 👋
 
-<!--
-**rishdor/rishdor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior .NET Software Engineer  
+Building practical products. Shipping MVPs. Improving daily.
 
-Here are some ideas to get you started:
+## Tech
+- C# / .NET
+- ASP.NET Core
+- SQL
+- JavaScript (basic frontend integration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Ship real software
+- Get strong at backend fundamentals
+- Build independently, not just “learn”
